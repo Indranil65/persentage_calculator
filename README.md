@@ -1,2 +1,2 @@
 # persentage_calculator
-calcular by java
+calculator by java
